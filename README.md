@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 ! My name is Sebastian Hans Weissenborn and I'm a Software Developer, from Germany</h2>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" alt="raspberrypi logo"  />
 </div>
 
-###å
+
 
 Here are some ideas to get you started:
 
