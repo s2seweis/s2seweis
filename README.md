@@ -5,8 +5,8 @@
 <div align="center" style="margin-bottom: 50px;">
 <img src="/aws.png" alt="AWS Associate Developer Certification" width="170px">
 <img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="170px">
-<img src="/w3.png" alt="W3Schools" width="170px">
-<img src="/w3.png" alt="W3Schools" width="170px">
+<img src="/w3.png" alt="W3Schools" width="150px">
+<img src="/w3.png" alt="W3Schools" width="150px">
 </div>
 
 ## Stack
