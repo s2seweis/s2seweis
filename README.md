@@ -2,10 +2,10 @@
 
 ### Certificates
 - AWS Associate Developer Certification
-  ![AWS Associate Developer Certification](insert_aws_certificate_image_url_here)
+  ![AWS Associate Developer Certification](https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png)
 
 - Self-Managed Database Admin from MongoDB
-  ![Self-Managed Database Admin from MongoDB](insert_mongodb_certificate_image_url_here)
+  ![Self-Managed Database Admin from MongoDB](/mongo-db.png)
 
 - W3Schools SQL Certificate
   ![W3Schools SQL Certificate](insert_mongodb_certificate_image_url_here)
