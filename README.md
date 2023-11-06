@@ -3,15 +3,14 @@
 ## Certificates
 
 <div align="center">
-<img src="/aws.png" alt="AWS Associate Developer Certification" width="250px">
-<img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="250px">
+<img src="/aws.png" alt="AWS Associate Developer Certification" width="170px">
+<img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="170px">
 </div>
 
-- W3Schools SQL Certificate
-  ![W3Schools SQL Certificate](insert_mongodb_certificate_image_url_here)
-
-- W3Schools React Certificate
-  ![W3Schools React Certificate](insert_mongodb_certificate_image_url_here)
+<div align="center">
+<div>W3Schools SQL Certificate<img src="/w3.png" alt="W3Schools SQL Certificate" width="170px"></div>
+<div>W3Schools React Certificate<img src="/w3.png" alt="W3Schools React Certificate" width="170px"></div>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
