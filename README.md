@@ -62,6 +62,7 @@
   <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" height="32" alt="next"  />
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" height="32" alt="adobe illustrator"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height="32" alt="aws"  />
 </div>
 
 
