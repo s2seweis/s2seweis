@@ -1,18 +1,17 @@
 <h2 align="left">Hi 👋 ! My name is Sebastian Hans Weissenborn and I'm a Software Developer, from Germany</h2>
 
-### Certificates
-- AWS Associate Developer Certification
-  ![AWS Associate Developer Certification](https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png)
+## Certificates
 
-- Self-Managed Database Admin from MongoDB
-  ![Self-Managed Database Admin from MongoDB](/mongo-db.png)
+<div align="center">
+<img src="/aws.png" alt="AWS Associate Developer Certification">
+<img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB">
+</div>
 
 - W3Schools SQL Certificate
   ![W3Schools SQL Certificate](insert_mongodb_certificate_image_url_here)
 
 - W3Schools React Certificate
   ![W3Schools React Certificate](insert_mongodb_certificate_image_url_here)
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
