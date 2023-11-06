@@ -6,6 +6,7 @@
 <img src="/aws.png" alt="AWS Associate Developer Certification" width="170px">
 <img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="170px">
 <img src="/w3.png" alt="W3Schools" width="170px">
+<img src="/w3.png" alt="W3Schools" width="170px">
 </div>
 
 ## Stack
@@ -76,6 +77,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on an modern React project with a good styling
 - 💬 Ask me about ...
 - 📫 How to reach me: 
+
+
 - [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourfacebookprofile)
 - [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
