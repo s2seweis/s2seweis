@@ -3,8 +3,8 @@
 ## Certificates
 
 <div align="center">
-<img src="/aws.png" alt="AWS Associate Developer Certification">
-<img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB">
+<img src="/aws.png" alt="AWS Associate Developer Certification" width="250px">
+<img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="250px">
 </div>
 
 - W3Schools SQL Certificate
