@@ -58,6 +58,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" height="32" alt="adobe xd logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="redux logo"  />
+  <img width="8" />
+  <img src="https://www.svgrepo.com/show/306084/gatsby.svg" height="32" alt="gatsby"  />
+  <img width="8" />
+  <img src="https://www.svgrepo.com/show/332221/ant-design.svg" height="32" alt="antd"  />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="32" alt="postgre"  />
+  <img width="8" />
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" height="32" alt="next"  />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" height="32" alt="adobe illustrator"  />
 </div>
 
 
