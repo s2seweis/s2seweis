@@ -5,11 +5,7 @@
 <div align="center">
 <img src="/aws.png" alt="AWS Associate Developer Certification" width="170px">
 <img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="170px">
-</div>
-
-<div align="center">
-<div>W3Schools SQL Certificate<img src="/w3.png" alt="W3Schools SQL Certificate" width="170px"></div>
-<div>W3Schools React Certificate<img src="/w3.png" alt="W3Schools React Certificate" width="170px"></div>
+<img src="/w3.png" alt="W3Schools" width="170px">
 </div>
 
 <div align="center">
