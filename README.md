@@ -2,10 +2,10 @@
 
 ## Certificates
 
-<div align="center" style="margin-bottom: 50px;">
-<img src="/aws.png" alt="AWS Associate Developer Certification" width="50px">
-<img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="50px">
-<img  src="/w3.png" alt="W3Schools" width="50px" style="margin-right: 15px;" >
+<div align="" style="margin-bottom: 50px;">
+<img src="/aws.png" alt="AWS Associate Developer Certification" width="60px">
+<img src="/mongo-db.png" alt="Self-Managed Database Admin from MongoDB" width="60px">
+<img  src="/w3.png" alt="W3Schools" width="60px" style="margin-right: 15px;" >
 </div>
 
 ## Stack
