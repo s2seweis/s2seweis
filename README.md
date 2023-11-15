@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 ! My name is Sebastian Hans Weissenborn and I'm a Software Developer, from Germany</h2>
 
-## Certificates
+## Certificates (in work)
 
 <div align="" style="margin-bottom: 50px;">
 <img src="/aws.png" alt="AWS Associate Developer Certification" width="60px">
@@ -74,12 +74,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my own projects but I looking always for new challenges
 - 🌱 I’m currently learning sql with mysql & postgre || improve my workflow
 - 👯 I’m looking to collaborate on an modern React project with a good styling
-- 💬 Ask me about ...
-- 📫 How to reach me: 
 
 
 - [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourfacebookprofile)
 - [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-- ⚡ Fun fact: ...
 
